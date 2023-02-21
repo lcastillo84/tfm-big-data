@@ -1,5 +1,5 @@
 # Diseño e implementación de arquitectura de analítica de datos en la nube para aplicación IoT
-### TFM para Master en Big Data y Business Analytics - IMF Business Schoo.
+### TFM para Master en Big Data y Business Analytics - IMF Business School.
 ### Autor: Luis Castillo
 
 ## Resumen
